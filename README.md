@@ -67,7 +67,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |David Gohel | Java, Shiny, Life science. packages: `ReporteRs` and `rtable` | [&mdash;](http://davidgohel.github.io) | david.gohel@ardata.fr | [![profile for David at Stack Overflow](http://stackexchange.com/users/flair/3315962.png)](http://stackoverflow.com/users/3315962/david-gohel) | [G](http://github.com/davidgohel) |  |  
 | Matthew Montero | actuary, loss development, Shiny, visualization|   | m.mkmontero13@gmail.com|   |   |   |   |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+|Rakesh Pardeshi | Shiny, Predictive Modeling, Data mining/Machine Learning Techniques, Robust regression, Credit Risk modeling | [&mdash;](https://in.linkedin.com/pub/rakesh-pardeshi/22/988/12) | rakeshpardeshi25@gmail.com |
 
 ------------
 
